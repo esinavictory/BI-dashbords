@@ -67,6 +67,8 @@ The report uses line charts, tables, matrices, pie charts and bar charts. All pa
 2. Download `hotel-analysis.pbix` from this repository.
 3. Open the file. If Power BI asks for the data source path, point it to the `data/` folder.
 
-## Tools
+## Stack
 
-Power BI Desktop, Power Query, DAX.
+- Power BI Desktop
+- Power Query
+- DAX
