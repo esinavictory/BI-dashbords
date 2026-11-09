@@ -28,7 +28,7 @@ The data comes from the hotel chain's CRM system and covers four areas:
 
 ## Data model
 
-![Data model](images/data-model.png)
+![Data model](data-model.png)
 
 ## Dashboard pages
 
