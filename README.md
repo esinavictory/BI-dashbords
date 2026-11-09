@@ -32,17 +32,17 @@ The data comes from the hotel chain's CRM system and covers four areas:
 
 ## Dashboard pages
 
-### Page 1: Overview
-![Overview](images/dashboard-overview.png)
+### Page 1: 
+![Overview](dashboard-overview.png)
 
-### Page 2: [название]
-![Page 2](images/dashboard-page-2.png)
+### Page 2: 
+![Page 2](dashboard-page-2.png)
 
-### Page 3: [название]
-![Page 3](images/dashboard-page-3.png)
+### Page 3: 
+![Page 3](dashboard-page-3.png)
 
-### Page 4: [название]
-![Page 4](images/dashboard-page-4.png)
+### Page 4: 
+![Page 4](dashboard-page-4.png)
 
 ## Report contents
 
