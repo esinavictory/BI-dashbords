@@ -59,14 +59,6 @@ The report uses line charts, tables, matrices, pie charts and bar charts. All pa
 | 3 | Report by clients |
 | 4 | Analysis of seasonality and tariff policy |
 
-
-
-## How to open
-
-1. Install [Power BI Desktop]) (Windows).
-2. Download `hotel-analysis.pbix` from this repository.
-3. Open the file. If Power BI asks for the data source path, point it to the `data/` folder.
-
 ## Stack
 
 - Power BI Desktop
